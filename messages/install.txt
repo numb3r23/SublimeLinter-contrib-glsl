@@ -1,0 +1,10 @@
+SublimeLinter-contrib-glslangValidator
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to glslangValidator.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/numb3r23/SublimeLinter-contrib-glsl
