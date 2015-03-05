@@ -1,8 +1,6 @@
 SublimeLinter-contrib-glslangValidator
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-glsl.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-glsl)  
-
 This linter plugin for [SublimeLinter][docs] provides an interface to [glslangValidator](https://github.com/numb3r23/SublimeLinter-contrib-glsl). It will be used with files that have the “glsl” and "essl" syntax provided by the SublimeText plugin [OpenGL Shading Language (GLSL)](https://github.com/euler0/sublime-glsl). It allows you to compile the shader code for a single shader using the Kronos Reference-Compiler and view the errors as annotations to your code without having to create an OpenGL context.
 
 ## tl;dr
