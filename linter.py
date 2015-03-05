@@ -2,8 +2,8 @@
 # linter.py
 # Linter for SublimeLinter3, a code checking framework for Sublime Text 3
 #
-# Written by Aparajita Fishman
-# Copyright (c) 2013 Aparajita Fishman
+# Written by numb3r23 - Sebastian Schaefer
+# Copyright (c) 2015 Sebastian Schaefer
 #
 # License: MIT
 #
